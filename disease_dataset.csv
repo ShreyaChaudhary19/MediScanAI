@@ -1,0 +1,51 @@
+fever,cough,headache,fatigue,sore_throat,body_pain,nausea,disease
+1,1,1,1,1,1,0,Flu
+1,1,0,1,1,0,0,Cold
+0,0,1,1,0,0,0,Migraine
+1,0,1,1,0,1,1,Dengue
+1,1,1,1,1,1,1,COVID19
+1,0,0,1,0,1,1,Malaria
+0,1,1,0,1,0,0,Cold
+1,1,1,0,1,1,1,COVID19
+1,1,1,1,1,1,0,Flu
+1,1,0,1,1,0,0,Cold
+1,0,1,1,0,1,1,Dengue
+1,1,1,1,1,1,1,COVID19
+1,0,0,1,0,1,1,Malaria
+0,0,1,1,0,0,0,Migraine
+1,1,1,1,0,1,0,Viral Fever
+1,1,0,1,0,1,1,Typhoid
+1,0,1,1,0,1,0,Viral Fever
+1,0,1,1,0,1,1,Typhoid
+0,1,0,0,1,0,0,Allergy
+0,1,0,0,1,0,1,Allergy
+1,1,1,1,0,1,0,Bronchitis
+1,1,0,1,1,1,0,Bronchitis
+1,0,1,1,0,0,1,Food Poisoning
+1,0,1,1,0,1,1,Food Poisoning
+0,0,1,1,0,0,0,Migraine
+0,1,0,0,1,0,0,Sinusitis
+0,1,1,1,1,0,0,Sinusitis
+1,1,1,1,1,1,1,COVID19
+1,1,1,1,1,1,0,Flu
+1,0,0,1,0,1,1,Malaria
+1,0,1,1,0,1,1,Dengue
+1,1,0,1,1,0,0,Cold
+1,1,0,1,0,1,1,Typhoid
+1,1,1,1,0,1,0,Viral Fever
+0,1,0,0,1,0,0,Allergy
+1,0,1,1,0,1,1,Food Poisoning
+1,1,0,1,1,1,0,Bronchitis
+0,1,1,1,1,0,0,Sinusitis
+1,1,1,1,1,1,1,COVID19
+1,1,1,1,1,1,0,Flu
+1,1,0,1,1,0,0,Cold
+1,0,1,1,0,1,1,Dengue
+1,0,0,1,0,1,1,Malaria
+0,0,1,1,0,0,0,Migraine
+1,1,0,1,0,1,1,Typhoid
+1,1,1,1,0,1,0,Viral Fever
+0,1,0,0,1,0,0,Allergy
+1,0,1,1,0,1,1,Food Poisoning
+1,1,0,1,1,1,0,Bronchitis
+0,1,1,1,1,0,0,Sinusitis
