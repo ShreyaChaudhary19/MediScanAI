@@ -1,7 +1,10 @@
 from google import genai
 import streamlit as st
+
+api_key = st.secrets["GOOGLE_API_KEY"]
+
 client = genai.Client(
-    api_key=st.secrets["AQ.Ab8RN6K6CWtYUpZQec9iw7NOcX_Lqq5RJW7rpsXMQOHTNniPrw"]
+    api_key=api_key
 )
 
 def ask_health_question(question):
